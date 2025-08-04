@@ -17,11 +17,14 @@ Live Demo – Question 1: [stackblitz.com](https://stackblitz.com/edit/react-vkp
 
 **Problem Statement:**
 
-> ✅ Pagination Implementation
-> Goal: Display data in chunks of 10 items per page
-> ✅ Condition 1: On initial load, display the first 10 records (Page 1)
-> ✅ Condition 2: On `Next` click, move to the next page (show next 10 records)
-> ✅ Condition 3: On `Previous` click, move to the previous page (show previous 10 records)
-> ✅ Condition 4: On page number button click, jump to that page
+```plantext
+✅ Pagination Implementation
+Goal: Display data in chunks of 10 items per page
+
+✅ Condition 1: On initial load, display the first 10 records (Page 1)
+✅ Condition 2: On `Next` click, move to the next page (show next 10 records)
+✅ Condition 3: On `Previous` click, move to the previous page (show previous 10 records)
+✅ Condition 4: On page number button click, jump to that page
+```
 
 Live Demo – Question 2: [stackblitz.com](https://stackblitz.com/edit/react-vkpgwxwv?file=src%2FQuestion2.js)
