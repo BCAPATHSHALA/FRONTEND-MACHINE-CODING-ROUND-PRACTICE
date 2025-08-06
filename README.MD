@@ -11,7 +11,7 @@ This repository contains my practice projects for machine coding rounds. These e
 > Initially, show only items with **even IDs**.  
 > When the toggle button is clicked, switch the view to show only items with **odd IDs**, and vice versa.
 
-Live Demo – Question 1: [stackblitz.com](https://stackblitz.com/edit/react-vkpgwxwv?file=src%2FQuestion1.js)
+Live Demo – Question 1: [stackblitz.com](https://stackblitz.com/edit/react-vkpgwxwv?file=src%2FQuestion1.jsx)
 
 ## Interview Coding Round Question 2
 
@@ -27,4 +27,22 @@ Goal: Display data in chunks of 10 items per page
 ✅ Condition 4: On page number button click, jump to that page
 ```
 
-Live Demo – Question 2: [stackblitz.com](https://stackblitz.com/edit/react-vkpgwxwv?file=src%2FQuestion2.js)
+Live Demo – Question 2: [stackblitz.com](https://stackblitz.com/edit/react-vkpgwxwv?file=src%2FQuestion2.jsx)
+
+## Interview Coding Round Question 3
+
+**Problem Statement:**
+
+```plaintext
+✅ OTP Implementation
+Goal: Create a production-ready OTP component
+
+✅ Condition 1: Allow only digit inputs
+✅ Condition 2: Handle Backspace to delete and move focus backward
+✅ Condition 3: Move focus to the next input when a digit is entered
+✅ Condition 4: Autofocus the first input box on page load
+✅ Condition 5: Handle left/right arrow keys to navigate input fields
+✅ Bonus: Support paste functionality to auto-fill the OTP boxes with the pasted data but allow only digits
+```
+
+Live Demo – Question 3: [stackblitz.com](https://stackblitz.com/edit/react-h73u39mh?file=src%2FQuestion3.jsx)
